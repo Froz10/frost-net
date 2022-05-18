@@ -1,0 +1,14 @@
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "Froz-Net" # the name of your site, e.g. ACME Corp.
+year: 2022
+
+plugins:
+  - jekyll-postcss
+
+postcss:
+  cache: false
+
+telegram: Froz10
+github: Froz10
+email: ivan.frozby@gmail.com
