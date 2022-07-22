@@ -496,6 +496,9 @@ Ensure the default browser behavior of the `hidden` attribute.
 .mr-2 {
   margin-right: 0.5rem;
 }
+.mt-20 {
+  margin-top: 5rem;
+}
 .block {
   display: block;
 }
@@ -789,9 +792,5 @@ Ensure the default browser behavior of the `hidden` attribute.
   .lg\:my-8 {
     margin-top: 2rem;
     margin-bottom: 2rem;
-  }
-
-  .lg\:mt-20 {
-    margin-top: 5rem;
   }
 }
