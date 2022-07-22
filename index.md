@@ -2,9 +2,8 @@
 layout: default
 title: "Froz-net"
 ---
-
-<div class="flex h-screen">
-  <div class="m-auto">
-    <h1 class="text-5xl">I'm using Tailwind CSS!</h1>
+<section class="container px-4 py-5 mx-auto">
+  <div class="flex">
+    <p>Content</p>
   </div>
-</div>
+</section>
